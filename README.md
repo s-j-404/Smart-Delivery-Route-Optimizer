@@ -1,6 +1,6 @@
 # Smart Delivery Route Optimizer
 
-The **Smart Delivery Route Optimizer** is a full-stack web application that streamlines delivery logistics using real-time route optimization and map integration. It is designed for courier services, delivery businesses, and logistics teams to reduce delivery time, fuel consumption, and manual planning.
+The **Smart Delivery Route Optimizer** is an application that streamlines delivery logistics using real-time route optimization and map integration. It is designed for courier services, delivery businesses, and logistics teams to reduce delivery time, fuel consumption, and manual planning.
 
 ---
 
@@ -8,7 +8,7 @@ The **Smart Delivery Route Optimizer** is a full-stack web application that stre
 
 Click below to watch the recorded demo of the application in action:
 
-[▶️ Watch Demo](./src/components/SmartRouteDemo.mp4)
+![Demo](./src/components/SmartRouteDemo.gif)
 
 > 💡 File Location: `src/components/SmartRouteDemo.mp4`
 
