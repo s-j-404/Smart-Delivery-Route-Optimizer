@@ -8,7 +8,7 @@ The **Smart Delivery Route Optimizer** is an application that streamlines delive
 
 Click below to watch the recorded demo of the application in action:
 
-![Demo](./src/components/SmartRouteDemo.gif)
+![Smart Delivery Route Demo](./src/components/SmartRouteDemo.gif)
 
 > 💡 File Location: `src/components/SmartRouteDemo.mp4`
 
