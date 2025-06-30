@@ -20,15 +20,16 @@ This video demonstrates how the application calculates and displays the optimize
 
 ### 1. Clone the Repository
 
-```bash
+bash
 git clone https://github.com/s-j-404/Smart-Delivery-Route-Optimizer.git
 cd "Smart Delivery Route Optimizer"
+
 
 ### 2. Install Dependencies
 
 Ensure you have Node.js installed.
 
-```bash
+bash
 npm install
 
 
@@ -36,19 +37,19 @@ npm install
 ### 3. Create .env File
 In the project root, create a .env file and add your API keys:
 
-```bash
+bash
 envVITE_MAPBOX_API_KEY=your_mapbox_api_key_here
 
 🔐 Important: Do not commit your .env file — it should remain private.
 
 4. Run the Project in Development Mode
 
-```bash
+bash
 npm run dev
 
 Then open your browser and go to:
 
-```bash
+bash
 http://localhost:5173
 
 🧠 Features
