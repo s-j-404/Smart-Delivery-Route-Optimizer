@@ -9,9 +9,12 @@ The **Smart Delivery Route Optimizer** is an application that streamlines delive
 Click below to watch the recorded demo of the application in action:
 
 
-![Smart Delivery Route Demo](https://github.com/s-j-404/Smart-Delivery-Route-Optimizer/blob/1d63342751359adf885d435072b9ef986cdc8d97/Smart%20Delivery%20Route%20Optimizer/src/components/SmartRouteDemo.gif)
+<div align="center">
+  <h3>🎯 Application Demo</h3>
+  <img src="https://raw.githubusercontent.com/s-j-404/Smart-Delivery-Route-Optimizer/1d63342751359adf885d435072b9ef986cdc8d97/Smart%20Delivery%20Route%20Optimizer/src/components/SmartRouteDemo.gif" alt="Smart Delivery Route Demo" width="800">
+  <p><em>Real-time route optimization with interactive map visualization</em></p>
+</div>
 
-> 💡 **File Location:** `src/components/SmartRouteDemo.mp4`
 
 This video demonstrates how the application calculates and displays the optimized delivery route in real time.
 
